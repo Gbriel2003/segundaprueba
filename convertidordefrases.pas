@@ -2,7 +2,7 @@ program Convertidordefrases;
 uses crt;
 
 var
-	frase: string;
+    frase: string;
     opcion: integer;
     seguir: char;
     i: integer;
